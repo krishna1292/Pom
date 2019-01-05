@@ -3,4 +3,7 @@
   <groupId>krishna</groupId>
   <artifactId>helloworld</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
+    <defaultGoal>clean</defaultGoal>
+  </build>
 </project>
